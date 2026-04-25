@@ -1,1 +1,1 @@
-[Contribution guidelines for this project](am_post_**.md)
+[AM POST](am_post_**.md)
