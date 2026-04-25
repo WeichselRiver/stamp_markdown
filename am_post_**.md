@@ -1,5 +1,5 @@
-# Amerikanischer Druck ** (9/9)
-- 1 (3Pf):  1
+# Amerikanischer Druck ** (9/9) [x]
+- [x] 1 (3Pf):  1
 - 2 (4Pf):  1 
 - 3 (5Pf):  1
 - 4 (6Pf):  1
