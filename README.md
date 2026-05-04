@@ -3,5 +3,5 @@
 
 
 
-[AM POST](am_post_postfrisch.md)
+[AM POST](am_post.md)
 
