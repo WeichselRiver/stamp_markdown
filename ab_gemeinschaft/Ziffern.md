@@ -29,6 +29,31 @@
 
 ## Blöcke
 - Block 12A (geschnitten): *
+
+## Farben
+- 923 a: ** (gepr.)
+- 923 b: ** (gepr.)
+- 923 c: ** (billigst)
+- 923 d: ** (gepr.)
+
+- 926 a: ** (billigst)
+- 926 b: ** (gepr.)
+- 926 c: ** (gepr.)
+
+## OR
+- 923 POR ndgz: **
+- 923 POR dgz: **
+- 923 WOR : **
+
+- 926 POR dgz: **..
+
+## HAN
+- 923 443.45: **
+- 923 4038.46-2: **,
+
+
+
+
 - Block 12B (gezähnt): -
 
 
